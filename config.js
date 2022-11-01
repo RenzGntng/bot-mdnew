@@ -14,25 +14,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6283144670363'] //ur owner number
-global.ownername = "RENZ XD" //ur owner name
+global.vcardowner = ['081252575970'] //ur owner number
+global.ownername = "PLON4YOU BOT" //ur owner name
 global.ytname = "YT: Renz Bot" //ur yt chanel name
 global.socialm = "GitHub: RenzGntng" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6283144670363'] //ur number
-global.ownernomer = "6283144670363" //ur number
-global.ownertag = '6283144670363' //ur tag number
-global.premium = ['6283144670363'] //ur premium number
-global.botname = 'Renz Bot' //ur bot name
-global.ownername = "RENZ XD"
+global.owner = ['621252575970'] //ur number
+global.ownernomer = "621252575970" //ur number
+global.ownertag = '621252575970' //ur tag number
+global.premium = ['6283144670363'.621252575970'] //ur premium number
+global.botname = 'PLON BOT' //ur bot name
+global.ownername = "PLON4YOU BOT"
 global.linkz = "https://youtu.be/Reuyn0vQFC8" //your theme url which will be displayed on whatsapp
 global.websitex = "hhttps://youtu.be/Reuyn0vQFC8" //ur website to be displayed
 global.botscript = 'https://youtu.be/Reuyn0vQFC8' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Renz Bot" //ur sticker watermark author
+global.author = "PLON4YOU BOT" //ur sticker watermark author
 global.wm = "Renz Bot Inc." //ur watermark
 
 // Other
